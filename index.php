@@ -54,7 +54,7 @@
 			<header>
 				<h2 class="wow fadeInDown">All e-tickets and season e-tickets on one card</h2>
 				<p class="wow fadeInUp" data-wow-delay="0.1s">
-					If you already have a Ralok card, only 4 actions further:
+					If you already have a Ralok card, only 5 actions further:
 				</p>
 			</header>
 			<div class="row">
